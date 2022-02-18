@@ -9,7 +9,7 @@ It will collect and train some photo data, then recognize the face. Finally, hel
 * 4.Push 'q' and it will finish.
 * 5.Enter the name of Excel file.
 # Youtube Video Link
-* <a href="https://www.youtube.com/watch?v=fMi6JtD0Oqo/">Click this</a>
+* <a href="https://www.youtube.com/watch?v=fMi6JtD0Oqo/">Auto-Check_in-System with Opencv</a>
 # ScreenImages
 <img src='https://scontent.fkhh2-1.fna.fbcdn.net/v/t1.15752-9/273030026_482176820106083_8855742229227525941_n.png?_nc_cat=106&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Cke-KqAyWCMAX_A6zL3&_nc_ht=scontent.fkhh2-1.fna&oh=03_AVLg-5_BYQglfIkMj7Q9GY66WDZThY9Z27aEwHCkg3k0zQ&oe=62337F17' width=450/>
 <img src='https://scontent.fkhh2-1.fna.fbcdn.net/v/t1.15752-9/272642035_272738431651334_4667183432855800721_n.png?_nc_cat=102&ccb=1-5&_nc_sid=ae9488&_nc_ohc=lUugkWb2JpcAX_ZFe7H&_nc_ht=scontent.fkhh2-1.fna&oh=03_AVLYDsloQPn_XwlSm8qaXclFDu7La49rfYAXNYha8NKJ4w&oe=6234F27E' width=450/>
